@@ -20,7 +20,7 @@ const defaultMenu = {
 ┃➤ Uptime: *%uptime (%muptime)*
 ┃➤ Database: %rtotalreg dari %totalreg
 ┃➤ Github:
-┃➤ https://github.com/MendingTuru
+┃➤ https://github.com/XiaomiBOT
 ┗━━━━━━⬣
 %readmore`.trim(),
   header: '┏━━〔 %category 〕━⬣',
@@ -286,7 +286,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
     }
     m.reply('_Tunggu Sebentar Sayang. . ._')
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
-    await conn.send3TemplateButtonImg(m.chat, fla + teks, text.trim(), wm, `🏅KOKO`, `${_p}owner`, `🎖RULES`, `${_p}rules`, `🎗 DONASI 🎗`, `${_p}donasi`)
+    await conn.send3TemplateButtonImg(m.chat, fla + teks, text.trim(), wm, `🏅Rangga`, `${_p}owner`, `🎖RULES`, `${_p}rules`, `🎗 DONASI 🎗`, `${_p}donasi`)
   } catch (e) {
     conn.reply(m.chat, 'Maaf, menu sedang error', m)
     throw e
