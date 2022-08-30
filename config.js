@@ -68,21 +68,21 @@ global.img = pickRandom(waifu)
 global.fla = pickRandom(flaaa)
 
 /*============== PAYMENT ==============*/
-global.saweria = "https://saweria.co/kokopangeran"// website saweria.co
-global.dana = ["087832147584"]
-global.pulsa = ["087832147584"] //pulsa here
-global.trakteer = "https://trakteer.id/kokopangeran"//Link url https://
-global.paypal = "pangeran.dwnta01@gmail.com" //paypal email
-global.gopay = "087832147584"//Numver for Payment digital Gopay Gojek
-global.instagram = "https://instagram.com/kokopangeran_
+global.saweria = "https://saweria.co/rangga123bot"// website saweria.co
+global.dana = ["085779150501"]
+global.pulsa = ["085779150501"] //pulsa here
+global.trakteer = "-"//Link url https://
+global.paypal = "ranggastory94@gmail.com" //paypal email
+global.gopay = "085779150501"//Numver for Payment digital Gopay Gojek
+global.instagram = "https://instagram.com/rangga_botz_
 
 /*============== PAYMENT ==============*/
-global.pdana = '087832147584'
-global.povo = '087832147584'
-global.pgopay = '087832147584'
-global.ppulsa = '087832147584'
-global.ppulsa2 = '087832147584'
-global.psaweria = 'https://saweria.com/kokopangeran'
+global.pdana = '085779150501'
+global.povo = '085779150501'
+global.pgopay = '085779150501'
+global.ppulsa = '085779150501'
+global.ppulsa2 = '-'
+global.psaweria = 'https://saweria.com/rangga123bot'
 
 
 
